@@ -9,7 +9,10 @@ Los materiales necesarios son:<br/>
 -Protoboard.<br/>
 -Cable (Jumpers).<br/>
 
-
+Para el desarrollo del taller se proponen 3 etapas, cada una de ellas tiene una carpeta con las instrucciones y el material extra necesario para desarrollarlo:
+1. Aprendiendo de Microcontroladores y conexiones.
+2. Sensor de aceleración y velocidad.
+3. Conección WiFi servidor. 
    
    
 ### Conceptos Claves:
