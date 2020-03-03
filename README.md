@@ -4,5 +4,4 @@ El **objetivo** general de este taller es desarrollar conocimientos básicos en 
 
 Los materiales necesarios son:<br/>
   -**NodeMCU (ESP8266)**:<br/>
-  
     ![Microcontrolador](/images/esp.png)
