@@ -1,4 +1,4 @@
-# Aprendiendo Conexiones WiFi y Sevidor
+# Aprendiendo Conexiones WiFi y Servidor
 El **objetivo** es aprender a conectarse a un WiFi a través del ESP8266. Además enviar y recibir paquetes con protocolo UDP. Para ello:
 1. Identificar SSID, pasword de la red WiFi a utilizar.
 2. Conectar el computador a la red, y reconocer la IP asignada.
