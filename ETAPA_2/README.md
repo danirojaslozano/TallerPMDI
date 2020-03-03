@@ -1,4 +1,4 @@
-# APRENDIENDO SENSORES: ACELERÓMETRO Y GIROSCOPIO
+# Aprendiendo de sensores: Acelererómetro y Giroscopio.
 El **objetivo** es aprender a utilizar un acelerómetro (MPU6050), identificar cada una de las señales de los ejes, y mostrarlas en el serial. Para ello:
 1. Realizar la sesión práctica, donde será necesario instalar la libreria MPUandes.
 <br>
