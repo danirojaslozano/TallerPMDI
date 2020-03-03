@@ -1,4 +1,4 @@
-# APRENDIENDO DE MICROCONTROLADORES Y CONEXIONES
+# Aprendiendo de microcontroladores y conexiones
 En esta sección, se realizará la introducción al microcontrolador NODEMCU, para ello:
  1. Seguir el tutorial Arduino IDE.
  2. Realizar la sesión práctica.
